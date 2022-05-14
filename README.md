@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DomeSirawit
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science an Machine Learining
+- 👀 I’m interested in Data Engineer, Data Science
+- 🌱 I’m currently learning Data Engineer, Data Science and Machine Learining
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
